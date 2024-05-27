@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: movies-jaxrs
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vj126
+Implementation-Vendor-Id: com.movies
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/movies_springboot
+Created-By: Maven Integration for Eclipse
+
